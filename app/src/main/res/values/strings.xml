@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="next_button">next</string>
+    <string name="question_1">中国的首都在北京</string>
+    <string name="question_2">妈妈的老家在山东</string>
+    <string name="question_3">爸爸的老家在湖北</string>
+    <string name="question_4">大象出生在浙江湖州</string>
+    <string name="question_5">大象马上要读小班了</string>
+    <string name="question_6">浙江的省会是杭州</string>
+    <string name="correct_toast">您的回答正确</string>
+    <string name="incorrect_toast">您的回答不正确</string>
+
+</resources>
